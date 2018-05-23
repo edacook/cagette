@@ -4,6 +4,7 @@
 
 * Installer Visual StudioCode
 * Installer dans VSC le plugin VS-Share (icone extension)
+* sign-in VS-Share
 * Ouvrir un dossier, puis nouveau dossier
 
 ## Créer le dépot Git
@@ -19,3 +20,8 @@
 * Créer un fichier *.md* et rédiger 
 * VSC Git - renseigner un message de commit
 * Puis Pusher en bas à gauche dans VSC
+
+## Ecriture collaborative
+
+* Cliquer sur Share dans VSC (le lien de partage est copié automatiquement)
+* Communiquer le lien
