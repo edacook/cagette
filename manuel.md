@@ -8,12 +8,14 @@
 
 ## Créer le dépot Git
 
-* Créer un dépot Github sur Github
+* Créer un dépot Github sur Github avec l'option de création d'un *README*
 * Ouvrir Github Desktop
 * Dans File > Clone repository
 * Choisir le dépôt
 
-## Créer des documents
+## Créer des documents et les publier
 
 * VSC Ouvrir un dossier Document/Github/\<repo\>
 * Créer un fichier *.md* et rédiger 
+* VSC Git - renseigner un message de commit
+* 
