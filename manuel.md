@@ -1,3 +1,9 @@
+---
+title: manuel d'utilisation
+desctiption: Comment installer share
+image_url: https://github.com/bndct-lmbrt/mes-recettes/raw/master/medias/celeri-foie-gras.jpg
+Licence: CC0-1.0
+---
 # Manuel pour un environnement Github/Markdown
 
 ## Installer l'environnement
