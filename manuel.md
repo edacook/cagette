@@ -18,4 +18,4 @@
 * VSC Ouvrir un dossier Document/Github/\<repo\>
 * Créer un fichier *.md* et rédiger 
 * VSC Git - renseigner un message de commit
-* 
+* Puis Pusher en bas à gauche dans VSC
