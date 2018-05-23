@@ -31,3 +31,12 @@ Licence: CC0-1.0
 
 * Cliquer sur Share dans VSC (le lien de partage est copié automatiquement)
 * Communiquer le lien
+* Editer le texte à plusieurs
+* Commiter/pusher
+
+## Publier sur un site
+
+* Créer un fichier *_config.yml*
+* Editer : remote-theme: pointbar/minima
+* Activer les *github-pages* dans le menu *settings* sur Github
+* Ouvrir : https://\<username\>.github.io/\<repo\>
